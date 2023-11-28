@@ -36,6 +36,6 @@ Segue uma lista com as bibliotecas em Python utilizadas no desenvolvimento e res
 
 ## Deployment
 
-Para executar o projeto é necessário baixar o arquivo "case_churn_streaming.ipynb" (código do projeto) e o database "streaming_data.csv". Feito isso, salvar ambos os arquivos na mesma pasta e executar o código utilizando programas de visualização e leituras de códigos em jupyter notebook, como Visual Studio Code por exemplo, ou algum outro software similar.
+Para executar o projeto é necessário baixar o arquivo "case_classificacao_churn_streaming.ipynb" (código do projeto) e o database "streaming_data.csv". Feito isso, salvar ambos os arquivos na mesma pasta e executar o código utilizando programas de visualização e leituras de códigos em jupyter notebook, como Visual Studio Code por exemplo, ou algum outro software similar.
 
 Obs: para executar o código corretamente as bibliotecas listadas na sessão anterior precisam estar instaladas em sua máquina.
